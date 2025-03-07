@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=
+Comment=A Tauri App
+Exec=rana-bridge
+Icon=rana-bridge
+Name=rana-bridge
+Terminal=false
+Type=Application

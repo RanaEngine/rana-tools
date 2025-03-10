@@ -23,12 +23,13 @@ The installation process is straightforward across all supported platforms:
 
 * Navigate to the appropriate file for your operating system in this repository
 * Download the installation file
-*  Open the downloaded file
-* Install RanaBridge:
-   - **macOS**: Drag RanaBridge to your Applications folder
-   - **Windows**: Follow the installation wizard
-   - **Linux**: Use your package manager to install the downloaded package
+* Open the downloaded file
+* Install RanaBridge: \
+   - **macOS**: Drag RanaBridge to your Applications folder \
+   - **Windows**: Follow the installation wizard \
+   - **Linux**: Use your package manager to install the downloaded package 
 * Once installed, RanaBridge will be available in your applications
+\
 \
 After installation, open RanaBridge to access the interface and begin connecting your applications to RanaEngine models.
 

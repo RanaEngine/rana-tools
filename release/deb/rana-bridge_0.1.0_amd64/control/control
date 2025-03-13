@@ -1,7 +1,7 @@
 Package: rana-bridge
 Version: 0.1.0
 Architecture: amd64
-Installed-Size: 62830
+Installed-Size: 62834
 Maintainer: you
 Priority: optional
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0

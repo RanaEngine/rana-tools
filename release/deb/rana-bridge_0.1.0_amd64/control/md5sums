@@ -4,5 +4,5 @@
 d829447edd871a562b549056616129db  usr/share/icons/hicolor/256x256@2/apps/rana-bridge.png
 5c5fd900cea2070425252161310926b3  usr/lib/rana-bridge/certs/localhost.pem
 3c18babdd6464a2bdcf0dc983963a765  usr/lib/rana-bridge/certs/localhost-key.pem
-ad933ac07ac9f3cd34629f9aa86dd215  usr/bin/api
-994016ec9d092632c55732a0778f57cd  usr/bin/rana-bridge
+53e88ddf71753dbe82d17f3834bcc595  usr/bin/api
+cdd8f547e0e01ea8adf64a186ef970e2  usr/bin/rana-bridge

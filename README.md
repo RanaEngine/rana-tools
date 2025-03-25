@@ -1,4 +1,4 @@
-# RanaTools API
+# RanaTools
 ## RanaBridge: Unlock Rana’s Local API
 RanaBridge is a powerful utility in the RanaTools package that enables developers to connect directly to RanaEngine models through a standardized API endpoint. It serves as the essential bridge between your applications and the full capabilities of Rana's AI ecosystem.
 
@@ -9,13 +9,13 @@ This repository contains RanaBridge for:
 
 ### Download Files
 #### macOS
-[`release/mac/rana-bridge_0.1.0_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/tree/main/release/mac)
+[`release/mac/rana-bridge_0.1.0_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.0/rana-bridge_0.1.0_aarch64.dmg)
 #### Windows
-[`release/win/rana-bridge_0.1.0_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/tree/main/release/win)
+[`release/win/rana-bridge_0.1.0_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.0/rana-bridge_0.1.0_x64-setup.exe)
 #### Linux RPM
-[`release/rpm/rana-bridge-0.1.0-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/tree/main/release/rpm)
+[`release/rpm/rana-bridge-0.1.0-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.0/rana-bridge-0.1.0-1.x86_64.rpm)
 #### Linux Debian
-[`release/deb/rana-bridge_0.1.0_amd64.deb`](https://github.com/RanaEngine/rana-tools/tree/main/release/deb)
+[`release/deb/rana-bridge_0.1.0_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.0/rana-bridge_0.1.0_amd64.deb)
 
 ## Installation
 

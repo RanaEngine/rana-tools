@@ -1,8 +1,0 @@
-2b823db98b35955ecfb6cbbbdbc405f9  usr/share/applications/rana-bridge.desktop
-628bacdc0c5fc4792bb42d4cc0f328bd  usr/share/icons/hicolor/128x128/apps/rana-bridge.png
-9b40c1c5de7818d11b45d0da90e0b03a  usr/share/icons/hicolor/32x32/apps/rana-bridge.png
-d829447edd871a562b549056616129db  usr/share/icons/hicolor/256x256@2/apps/rana-bridge.png
-5c5fd900cea2070425252161310926b3  usr/lib/rana-bridge/certs/localhost.pem
-3c18babdd6464a2bdcf0dc983963a765  usr/lib/rana-bridge/certs/localhost-key.pem
-53e88ddf71753dbe82d17f3834bcc595  usr/bin/api
-cdd8f547e0e01ea8adf64a186ef970e2  usr/bin/rana-bridge

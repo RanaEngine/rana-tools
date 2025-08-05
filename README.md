@@ -9,13 +9,13 @@ This repository contains RanaBridge for:
 
 ### Download Files
 #### macOS
-[`release/mac/rana-bridge_0.1.0_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.0/rana-bridge_0.1.0_aarch64.dmg)
+[`release/mac/rana-bridge_0.1.2_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_aarch64.dmg)
 #### Windows
-[`release/win/rana-bridge_0.1.0_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.0/rana-bridge_0.1.0_x64-setup.exe)
+[`release/win/rana-bridge_0.1.2_x64-setup.exe`](#) To be generated
 #### Linux RPM
-[`release/rpm/rana-bridge-0.1.0-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.0/rana-bridge-0.1.0-1.x86_64.rpm)
+[`release/rpm/rana-bridge-0.1.2-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge-0.1.2-1.x86_64.rpm)
 #### Linux Debian
-[`release/deb/rana-bridge_0.1.0_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.0/rana-bridge_0.1.0_amd64.deb)
+[`release/deb/rana-bridge_0.1.2_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_amd64.deb)
 
 ## Installation
 
@@ -32,6 +32,13 @@ The installation process is straightforward across all supported platforms:
 \
 \
 After installation, open RanaBridge to access the interface and begin connecting your applications to RanaEngine models.
+
+
+### Mac Install 
+The current dmg file is not provisioned for now. Please run the following command for testing Rana Tools. 
+```bash 
+xattr -dr com.apple.quarantine RanaTools.app
+```
 
 ### API Documentation
 [**Dev Portal** at `rana.ai/api`](https://rana.ai/api)

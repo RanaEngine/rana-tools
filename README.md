@@ -11,7 +11,9 @@ This repository contains RanaBridge for:
 #### macOS
 [`release/mac/rana-bridge_0.1.2_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_aarch64.dmg)
 #### Windows
-[`release/win/rana-bridge_0.1.2_x64-setup.exe`](#) To be generated
+[`release/win/rana-bridge_0.1.2_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_x64-setup.exe)
+[`release/win/rana-bridge_0.1.2_x64_en-US.msi`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_x64_en-US.msi)
+
 #### Linux RPM
 [`release/rpm/rana-bridge-0.1.2-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge-0.1.2-1.x86_64.rpm)
 #### Linux Debian

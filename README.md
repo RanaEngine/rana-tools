@@ -37,10 +37,7 @@ After installation, open RanaBridge to access the interface and begin connecting
 
 
 ### Mac Install 
-The current dmg file is not provisioned for now. Please run the following command for testing Rana Tools. 
-```bash 
-xattr -dr com.apple.quarantine RanaTools.app
-```
+Mac Binary has been updated and signed. 
 
 ### API Documentation
 [**Dev Portal** at `rana.ai/api`](https://rana.ai/api)

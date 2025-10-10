@@ -1,23 +1,23 @@
 # RanaTools
-## RanaBridge: Unlock Rana’s Local API
-RanaBridge is a powerful utility in the RanaTools package that enables developers to connect directly to RanaEngine models through a standardized API endpoint. It serves as the essential bridge between your applications and the full capabilities of Rana's AI ecosystem.
+## RanaTools: Unlock Rana’s Local API
+RanaTools is a powerful utility in the RanaTools package that enables developers to connect directly to RanaEngine models through a standardized API endpoint. It serves as the essential bridge between your applications and the full capabilities of Rana's AI ecosystem.
 
-This repository contains RanaBridge for:
+This repository contains RanaTools for:
 - **macOS**
 - **Windows**
 - **Linux (.rpm, .deb)**
 
 ### Download Files
 #### macOS
-[`release/mac/rana-bridge_0.1.2_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_aarch64.dmg)
+[`release/mac/RanaTools_0.1.3_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools_0.1.3_aarch64.dmg)
 #### Windows
-[`release/win/rana-bridge_0.1.2_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_x64-setup.exe)
-[`release/win/rana-bridge_0.1.2_x64_en-US.msi`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_x64_en-US.msi)
+[`release/win/RanaTools_0.1.3_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools_0.1.3_x64-setup.exe)
+[`release/win/RanaTools_0.1.3_x64_en-US.msi`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools_0.1.3_x64_en-US.msi)
 
 #### Linux RPM
-[`release/rpm/rana-bridge-0.1.2-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge-0.1.2-1.x86_64.rpm)
+[`release/rpm/RanaTools-0.1.3-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools-0.1.3-1.x86_64.rpm)
 #### Linux Debian
-[`release/deb/rana-bridge_0.1.2_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v0.1.2/rana-bridge_0.1.2_amd64.deb)
+[`release/deb/RanaTools_0.1.3_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools_0.1.3_amd64.deb)
 
 ## Installation
 

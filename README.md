@@ -17,7 +17,7 @@ This repository contains RanaTools for:
 #### Linux RPM
 [`release/rpm/RanaTools-0.1.3-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools-0.1.3-1.x86_64.rpm)
 #### Linux Debian
-[`release/deb/RanaTools_0.1.4_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.3_amd64.deb)
+[`release/deb/RanaTools_0.1.4_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.4_amd64.deb)
 
 ## Installation
 

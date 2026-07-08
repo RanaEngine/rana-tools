@@ -9,15 +9,15 @@ This repository contains RanaTools for:
 
 ### Download Files
 #### macOS
-[`release/mac/RanaTools_0.1.3_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools_0.1.3_aarch64.dmg)
+[`release/mac/RanaTools_0.1.4_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.4_aarch64.dmg)
 #### Windows
-[`release/win/RanaTools_0.1.3_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools_0.1.3_x64-setup.exe)
-[`release/win/RanaTools_0.1.3_x64_en-US.msi`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools_0.1.3_x64_en-US.msi)
+[`release/win/RanaTools_0.1.4_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.4_x64-setup.exe)
+[`release/win/RanaTools_0.1.4_x64_en-US.msi`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.4_x64_en-US.msi)
 
 #### Linux RPM
 [`release/rpm/RanaTools-0.1.3-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools-0.1.3-1.x86_64.rpm)
 #### Linux Debian
-[`release/deb/RanaTools_0.1.3_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools_0.1.3_amd64.deb)
+[`release/deb/RanaTools_0.1.4_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.3_amd64.deb)
 
 ## Installation
 

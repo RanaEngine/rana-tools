@@ -9,15 +9,15 @@ This repository contains RanaTools for:
 
 ### Download Files
 #### macOS
-[`release/mac/RanaTools_0.1.4_aarch64.dmg`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.4_aarch64.dmg)
+[`RanaTools-aarch64-apple-darwin.dmg`](https://github.com/RanaEngine/rana-tools/releases/latest/download/RanaTools-aarch64-apple-darwin.dmg)
 #### Windows
-[`release/win/RanaTools_0.1.4_x64-setup.exe`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.4_x64-setup.exe)
-[`release/win/RanaTools_0.1.4_x64_en-US.msi`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.4_x64_en-US.msi)
+[`RanaTools-pc-windows-x64.exe`](https://github.com/RanaEngine/rana-tools/releases/latest/download/RanaTools-pc-windows-x64.exe)
+[`RanaTools-pc-windows-x64.msi`](https://github.com/RanaEngine/rana-tools/releases/latest/download/RanaTools-pc-windows-x64.msi)
 
 #### Linux RPM
-[`release/rpm/RanaTools-0.1.3-1.x86_64.rpm`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.3/RanaTools-0.1.3-1.x86_64.rpm)
+[`RanaTools-x86_64-unknown-linux-gnu.rpm`](https://github.com/RanaEngine/rana-tools/releases/latest/download/RanaTools-x86_64-unknown-linux-gnu.rpm)
 #### Linux Debian
-[`release/deb/RanaTools_0.1.4_amd64.deb`](https://github.com/RanaEngine/rana-tools/releases/download/v.0.1.4/RanaTools_0.1.4_amd64.deb)
+[`RanaTools-x86_64-unknown-linux-gnu.deb`](https://github.com/RanaEngine/rana-tools/releases/latest/download/RanaTools-x86_64-unknown-linux-gnu.deb)
 
 ## Installation
 
